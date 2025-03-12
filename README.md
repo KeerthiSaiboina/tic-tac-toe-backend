@@ -2,9 +2,10 @@
 
 This is a Node.js project.
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
+API Routes: POST /api/scores (store scores) and GET /api/scores (fetch scores).
+Data Storage: Using a simple JSON file or a database (MongoDB/PostgreSQL).
+Express Server: Handles API requests.
 
-## Resources
 
 - [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
 - [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
